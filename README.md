@@ -1,2 +1,1 @@
-# fuck-ai
-Hate AI
+# fuck AI
